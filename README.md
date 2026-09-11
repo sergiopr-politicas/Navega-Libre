@@ -1,0 +1,1 @@
+Puedes descargar el archivo completo desde aquí, solo descomprime y ejecuta el ejecutable que esta dentro de la carpeta  dist: https://drive.google.com/file/d/1BbTPfuPE74UQgq26wUvMod6AZXY8DaUN/view?usp=sharing
